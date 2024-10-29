@@ -51,4 +51,4 @@ function DiscountControl(discount) {
 
 DiscountControl(discount);
 
-console.log("ბილეთის ფასი თქვენთვის არის: " + price + "ლარი.");
+alert("ბილეთის ფასი თქვენთვის არის: " + price + "ლარი.");
